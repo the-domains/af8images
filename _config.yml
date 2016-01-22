@@ -1,0 +1,28 @@
+name: Af8images
+favicon: null
+layout_spectrum: 0.5196770988404751
+typography_spectrum: 0.09455437446013093
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7374887976329774
+  lightness: 0.14080054452642798
+  saturation: 0.9133206661790609
+  rhythmicContrast: 0.04093961091712117
+purpose: []
