@@ -2,12 +2,13 @@ name: Af8images
 favicon: null
 layout_spectrum: 0.5196770988404751
 typography_spectrum: 0.09455437446013093
+title: 'Travel & lifestyle photography'
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-64107808-1
   facebook: null
   twitter: null
 opengraph:
