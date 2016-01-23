@@ -1,7 +1,7 @@
 name: Af8images
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.09455437446013093
+layout_spectrum: 0
+typography_spectrum: 0
 title: 'Travel & lifestyle photography'
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#603826'
   brandStrength: 0
   lightness: 0.14080054452642798
-  saturation: 0.9133206661790609
-  rhythmicContrast: 0.04093961091712117
+  saturation: 0.8125
+  rhythmicContrast: 0.5
 purpose: []
