@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: ''
+hasPage: true
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: Temporary holding page
-datePublished: '2016-01-23T16:18:15.200Z'
-dateModified: '2016-01-23T16:18:11.170Z'
+datePublished: '2016-01-23T16:31:25.212Z'
+dateModified: '2016-01-23T16:31:18.271Z'
 title: Temporary Holding Page
 author: []
 sourcePath: _posts/2016-01-23-holding-page.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: temporary-holding-page/index.html
+_type: Article
 
 ---
 # Temporary Holding Page
