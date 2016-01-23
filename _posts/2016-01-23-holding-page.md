@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Temporary holding page
-datePublished: '2016-01-23T16:31:25.212Z'
-dateModified: '2016-01-23T16:31:18.271Z'
+datePublished: '2016-01-23T18:33:01.715Z'
+dateModified: '2016-01-23T17:03:54.754Z'
 title: Temporary Holding Page
 author: []
 sourcePath: _posts/2016-01-23-holding-page.md
