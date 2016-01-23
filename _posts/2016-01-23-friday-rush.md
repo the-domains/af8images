@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-23T17:02:43.501Z'
-dateModified: '2016-01-23T17:02:39.423Z'
+datePublished: '2016-01-23T17:49:19.650Z'
+dateModified: '2016-01-23T17:49:17.071Z'
 title: Friday Rush
 author: []
 sourcePath: _posts/2016-01-23-friday-rush.md
@@ -25,4 +25,4 @@ _type: Article
 # Friday Rush
 
 Rush hour on a Friday evening in Akiharbara.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0eda603eb1da588ee47833c6def887366ada703b.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d55371b059ef079222edd93e7a9c62fbc43ec41e.jpg)
