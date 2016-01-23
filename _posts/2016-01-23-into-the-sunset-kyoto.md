@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Description
-datePublished: '2016-01-23T16:15:03.047Z'
-dateModified: '2016-01-23T16:14:49.901Z'
+datePublished: '2016-01-23T16:21:33.763Z'
+dateModified: '2016-01-23T16:21:29.056Z'
 title: Into the sunset - Kyoto
 author: []
+sourcePath: _posts/2016-01-23-into-the-sunset-kyoto.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-23-into-the-sunset-kyoto.md
-published: true
 url: into-the-sunset-kyoto/index.html
 _type: Blurb
 
