@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-23T16:58:32.020Z'
+datePublished: '2016-01-23T16:58:32.050Z'
 dateModified: '2016-01-23T16:58:27.990Z'
 title: Friday Rush
 author: []
