@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: Description
-datePublished: '2016-01-23T16:21:33.939Z'
-dateModified: '2016-01-23T16:21:29.056Z'
+datePublished: '2016-01-23T16:27:26.618Z'
+dateModified: '2016-01-23T16:27:23.866Z'
 title: Into the sunset - Kyoto
 author: []
 sourcePath: _posts/2016-01-23-into-the-sunset-kyoto.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: into-the-sunset-kyoto/index.html
-_type: Blurb
+_type: Article
 
 ---
 # Into the sunset - Kyoto
